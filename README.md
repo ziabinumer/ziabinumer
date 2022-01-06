@@ -12,9 +12,7 @@
 - 📫 2022 Goals: Complete CS50x, dive into web development...
 - ⚡ Fun fact: I play Chess, I create websites with WordPress but I know that is not Web Development...
 
-### My Skills
 
-HTML5 - CSS3 - C 
 
 
 
