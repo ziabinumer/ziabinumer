@@ -14,7 +14,7 @@
 
 ### My Skills
 
-<button style="color:white;background-color:pink">HTML5</button>
+<button background-color="pink">HTML5</button>
 
 
 
