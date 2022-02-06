@@ -2,7 +2,7 @@
 
 ### I am college Student and a beginner Programmer!
 
-# My Programming Skills: C, Python with Flask, HTML&CSS, JavaScript, SQL
+My Programming Skills: C, Python with Flask, HTML&CSS, JavaScript, SQL
 
 <!--
 **ziabinumer/ziabinumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
