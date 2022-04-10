@@ -9,9 +9,9 @@ My Programming Skills: C, Python (flask), HTML&CSS, JavaScript, SQL
 
 
 - 🔭 I’m currently working as system administrator for my brother's company
-- 🌱 I’m currently learning CS50x...
-- 👯 I’m looking to collaborate on front-end web development
-- 📫 2022 Goals: get admission in NUST Pakistan, become expert web developer
+- 🌱 I’m currently learning web programming with python and javaScript.
+- 👯 I’m looking to collaborate on web development with python and javaScript.
+- 📫 2022 Goals: become expert web developer
 - ⚡ Fun fact: I play Chess...
 
 
