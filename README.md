@@ -1,6 +1,6 @@
 ### Hello, I am Zia 👋
 
-### I am college Student and a Programmer!
+### A college Student and a Programmer!
 
 My Programming Skills: C, Python, Flask, Django, HTML&CSS, JavaScript, SQL
 
